@@ -1,7 +1,7 @@
 {
-  "name": "madness",
+  "name": "HA of Colorado",
   "version": "1.0.0",
-  "description": "madforjekyll",
+  "description": "Mile High Hope Dealers",
   "main": "Gruntfile.js",
   "dependencies": {
     "magnific-popup": "^1.0.0"
@@ -14,10 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/sunbliss/sunbliss.github.io.git"
   },
-  "author": "madness",
+  "author": "Corina Allen",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sunbliss/sunbliss.github.io/issues"
+    "url": "https://github.com/StarPerfect/MileHighHopeDealers/issues"
   },
-  "homepage": "https://github.com/sunbliss/sunbliss.github.io#readme"
+  "homepage": "hhttps://github.com/StarPerfect/MileHighHopeDealers"
 }
