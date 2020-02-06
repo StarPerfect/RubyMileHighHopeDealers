@@ -37,7 +37,7 @@ instagram_username: ST4RP3RF3CT
  
 # Internal nav
 nav:
- writing: "root_url/writing/"
+ literature: "root_url/literature/"
  gallery: "root_url/gallery/"
  about: "root_url/about/"
 
@@ -71,8 +71,8 @@ kramdown:
 sass:
     style:          :compressed
 paginate: 5
-paginate_path: "/writing/page:num/"
-permalink: "/writing/:title/"
+paginate_path: "/literature/page:num/"
+permalink: "/literature/:title/"
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 slugify: "pretty"
 

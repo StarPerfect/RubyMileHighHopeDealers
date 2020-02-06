@@ -32,7 +32,7 @@
 
 #### A logo on the left side
  
-#### 3 Pages for <a href="{{ site.baseurl }}/writing/">'blogging'</a>, <a href="{{ site.baseurl }}/gallery/">'gallery sliders'</a>, <a href="{{ site.baseurl }}/about/">'about'</a>.
+#### 3 Pages for <a href="{{ site.baseurl }}/literature/">'blogging'</a>, <a href="{{ site.baseurl }}/gallery/">'gallery sliders'</a>, <a href="{{ site.baseurl }}/about/">'about'</a>.
        
 
 #####  Search page, with all the tags and categories at the bottom

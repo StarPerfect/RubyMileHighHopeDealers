@@ -36,7 +36,7 @@
     <url>
       <loc>http://localhost:4000/404.html</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -49,24 +49,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/writing/category/cat01/</loc>
+      <loc>http://localhost:4000/litarature/category/cat01/</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/writing/category/cat02/</loc>
-      
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -79,9 +64,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/writing/category/cat03/</loc>
+      <loc>http://localhost:4000/literature/category/cat02/</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -94,9 +79,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/gallery/</loc>
+      <loc>http://localhost:4000/literature/category/cat03/</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -111,7 +96,37 @@
     <url>
       <loc>http://localhost:4000/about/</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/literature/</loc>
+      
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/gallery/</loc>
+      
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -126,7 +141,7 @@
     <url>
       <loc>http://localhost:4000/search/</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -141,22 +156,7 @@
     <url>
       <loc>http://localhost:4000/</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
-      
-      
-        <changefreq>monthly</changefreq>
-      
-      
-        <priority>0.3</priority>
-      
-    </url>
-    
-  
-    
-    <url>
-      <loc>http://localhost:4000/writing/</loc>
-      
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -171,7 +171,7 @@
     <url>
       <loc>http://localhost:4000/pages/search/search.json</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -186,9 +186,9 @@
   
     
     <url>
-      <loc>http://localhost:4000/writing/tag/tag-name-one/</loc>
+      <loc>http://localhost:4000/literature/tag/tag-name-one/</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -201,9 +201,24 @@
   
     
     <url>
-      <loc>http://localhost:4000/writing/tag/tag-name-two/</loc>
+      <loc>http://localhost:4000/literature/tag/tag-name-two/</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
+      
+      
+        <changefreq>monthly</changefreq>
+      
+      
+        <priority>0.3</priority>
+      
+    </url>
+    
+  
+    
+    <url>
+      <loc>http://localhost:4000/about/test</loc>
+      
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -218,7 +233,7 @@
     <url>
       <loc>http://localhost:4000/about/what</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
@@ -233,7 +248,7 @@
     <url>
       <loc>http://localhost:4000/robots.txt</loc>
       
-        <lastmod>2020-02-05T10:58:10-07:00</lastmod>
+        <lastmod>2020-02-05T19:19:51-07:00</lastmod>
       
       
         <changefreq>monthly</changefreq>
